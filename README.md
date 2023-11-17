@@ -12,7 +12,7 @@
 - 💬 Ask me about **react, react native, machine learning,web development**
 
 - 📫 How to reach me **mohammedabdullahkhan26523@gmail.com**
-- ☕ Buy me a coffee at **[mohammedabdullahkhan26523@gmail.com](https://www.buymeacoffee.com/mak3)**
+- ☕ Buy me a coffee at **[coffeeForMAK](https://www.buymeacoffee.com/mak3)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
