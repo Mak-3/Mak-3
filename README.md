@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Mobile application development**
 
-- 👨‍💻 All of my projects are available at [https://mak-3.github.io/portfolio/](https://mak-3.github.io/portfolio/)
+- 👨‍💻 All of my projects are available at [https://www.mohammedabdullahkhan.com/)
 
 - 💬 Ask me about **react, react native, machine learning,web development**
 
