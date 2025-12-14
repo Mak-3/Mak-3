@@ -11,12 +11,6 @@ Building scalable mobile & web products with clean UX and strong fundamentals
   <img src="https://komarev.com/ghpvc/?username=mak-3&label=Profile%20views&color=0e75b6&style=flat" alt="mak-3" />
 </p>
 
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=mak-3&margin-w=10&margin-h=10" alt="mak-3" />
-  </a>
-</p>
-
 ---
 
 ### 👨‍💻 About Me
