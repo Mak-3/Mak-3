@@ -13,7 +13,7 @@ Building scalable products, AI-powered tools, and high-performance mobile apps
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LeetCode-400%2B-orange?style=for-the-badge&logo=leetcode"/>
+  <img src="https://img.shields.io/badge/LeetCode-700%2B-orange?style=for-the-badge&logo=leetcode"/>
   <img src="https://img.shields.io/badge/Focus-System%20Design-blue?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/AI-LLM%20Apps-black?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/React%20Native-Expert-61DAFB?style=for-the-badge&logo=react"/>
